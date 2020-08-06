@@ -1,0 +1,14 @@
+{
+  "name": "v-chat",
+  "version": "1.0.0",
+  "description": "Video Chat application using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arty Designs",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
